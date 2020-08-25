@@ -12,9 +12,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [npm ](https://registry.npmjs.org)
 
+## Instructions
+* Provide your github repository url
+* **Note**: the `package.json` must be in the root folder of the github url provided.
+
 ## Available Scripts
 
-In the project directory, you can run: in order to get the dependencies the package.json must be in the root folder of the github url you provide.
+In the project directory, you can run: 
 
 ### `npm start`
 
