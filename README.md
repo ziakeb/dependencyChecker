@@ -1,8 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Dependencies
+`axios`
+
+`@material-ui/core`
+
+`npm-registry-fetch`
+
+## External API
+[Github API](https://developer.github.com/v3/)
+
+[npm ](https://registry.npmjs.org)
+
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run: in order to get the dependencies the package.json must be in the root folder of the github url you provide.
 
 ### `npm start`
 
